@@ -1,4 +1,4 @@
-// Powderday.co - Scripts
+// Powderday Digital - Scripts
 
 // Mobile Menu Toggle
 const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
